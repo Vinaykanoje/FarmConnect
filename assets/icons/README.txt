@@ -1,0 +1,1 @@
+Use this folder for future custom SVG/PNG icons. Emoji icons are used in the current demo to keep it lightweight.
